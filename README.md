@@ -1,2 +1,1 @@
-# shell readme
-# authors: Omotola Oladimeji and Nelson Alexander
+This is my shell repository
